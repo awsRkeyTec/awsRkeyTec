@@ -1,4 +1,4 @@
-<center>## Cloud Engineer</center>
+<h1 align="center">Cloud Engineer</h1>
 
 - 👋 Hi, I’m Bulbul 
 - 👩‍💻 Cloud Engineer with a keen interest in exploring and building solutions on AWS and other cloud platforms.
